@@ -6,7 +6,7 @@ import Weather from "./components/Weather";
 
 const API_KEY = "9444d64729d88d2c683897483be54f08";
 //9444d64729d88d2c683897483be54f08
-//3585775f387b0d0cba6c5b3dc41b8167
+
 
 class App extends React.Component {
   state = {
